@@ -1,4 +1,4 @@
-#include "BmpImage.hpp"
+#include "Files.h"
 #include <fstream>
 #include <stdexcept>
 
