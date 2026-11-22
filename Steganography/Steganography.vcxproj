@@ -126,10 +126,15 @@
     <ClCompile Include="Bits.cpp" />
     <ClCompile Include="Files.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Steganography.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bits.h" />
     <ClInclude Include="Files.h" />
+    <ClInclude Include="Steganography.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
